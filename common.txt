@@ -1,3 +1,1 @@
-changed this line from branch1 common
-
-Adding new lines to test git diff
+main changed this common line
